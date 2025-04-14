@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../subService/.idea/subService.iml" filepath="$PROJECT_DIR$/../subService/.idea/subService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/subsciptionProto.iml" filepath="$PROJECT_DIR$/.idea/subsciptionProto.iml" />
     </modules>
   </component>
